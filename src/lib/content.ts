@@ -30,6 +30,11 @@ const content: TContent = {
                 id: "airbnb_cleaning",
                 title: "Airbnb Turnover Cleaning",
                 description: "Reliable and timely cleaning services specifically for Airbnb and short-term rentals."
+            },
+            {
+                id: "painting_service",
+                title: "Residential & Commercial Painting",
+                description: "Interior and exterior painting solutions to refresh and beautify your home or business."
             }
         ],
         testimonials: [
